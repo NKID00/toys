@@ -1,0 +1,16 @@
+D:\coding\hack\DongTalk1\bin\x86\Release\DongTalk.exe
+D:\coding\hack\DongTalk1\bin\x86\Release\DongTalk.pdb
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.csprojAssemblyReference.cache
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.MainForm.resources
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.Properties.Resources.resources
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.csproj.GenerateResource.cache
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.exe
+D:\coding\hack\DongTalk1\obj\x86\Release\DongTalk.pdb
+D:\coding\hack\DongTalk2\bin\x86\Release\DongTalk.exe
+D:\coding\hack\DongTalk2\bin\x86\Release\DongTalk.pdb
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.csprojAssemblyReference.cache
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.MainForm.resources
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.Properties.Resources.resources
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.csproj.GenerateResource.cache
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.exe
+D:\coding\hack\DongTalk2\obj\x86\Release\DongTalk.pdb

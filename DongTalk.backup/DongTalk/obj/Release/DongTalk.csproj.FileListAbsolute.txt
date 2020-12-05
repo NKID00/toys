@@ -1,0 +1,9 @@
+D:\coding\hack\DongTalk\bin\Release\DongTalk.exe
+D:\coding\hack\DongTalk\bin\Release\DongTalk.pdb
+D:\coding\hack\DongTalk\obj\Release\DongTalk.csprojAssemblyReference.cache
+D:\coding\hack\DongTalk\obj\Release\DongTalk.HiddenForm.resources
+D:\coding\hack\DongTalk\obj\Release\DongTalk.ImageForm.resources
+D:\coding\hack\DongTalk\obj\Release\DongTalk.Properties.Resources.resources
+D:\coding\hack\DongTalk\obj\Release\DongTalk.csproj.GenerateResource.cache
+D:\coding\hack\DongTalk\obj\Release\DongTalk.exe
+D:\coding\hack\DongTalk\obj\Release\DongTalk.pdb

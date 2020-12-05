@@ -1,0 +1,7 @@
+D:\hack\wnexe\bin\Release\wnexe.exe
+D:\hack\wnexe\bin\Release\wnexe.pdb
+D:\hack\wnexe\obj\Release\wnexe.Form.resources
+D:\hack\wnexe\obj\Release\wnexe.Properties.Resources.resources
+D:\hack\wnexe\obj\Release\wnexe.csproj.GenerateResource.Cache
+D:\hack\wnexe\obj\Release\wnexe.exe
+D:\hack\wnexe\obj\Release\wnexe.pdb

@@ -1,0 +1,7 @@
+D:\coding\hack\DongTalk\bin\x86\Debug\DongTalk.exe
+D:\coding\hack\DongTalk\bin\x86\Debug\DongTalk.pdb
+D:\coding\hack\DongTalk\obj\x86\Debug\DongTalk.SoundForm.resources
+D:\coding\hack\DongTalk\obj\x86\Debug\DongTalk.Properties.Resources.resources
+D:\coding\hack\DongTalk\obj\x86\Debug\DongTalk.csproj.GenerateResource.cache
+D:\coding\hack\DongTalk\obj\x86\Debug\DongTalk.exe
+D:\coding\hack\DongTalk\obj\x86\Debug\DongTalk.pdb

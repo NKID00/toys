@@ -1,0 +1,9 @@
+D:\hack\一键从QQ号抓取手机号\bin\Release\一键从QQ号抓取手机号.exe
+D:\hack\一键从QQ号抓取手机号\bin\Release\一键从QQ号抓取手机号.pdb
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.Form.resources
+D:\hack\一键从QQ号抓取手机号\obj\Release\wnexe.Form1.resources
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.Properties.Resources.resources
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.csproj.GenerateResource.Cache
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.exe
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.pdb
+D:\hack\一键从QQ号抓取手机号\obj\Release\一键从QQ号抓取手机号.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+﻿  bsod.cpp
+D:\coding\hack\DongLib\bsod.cpp(53,43): warning C4311: “类型强制转换”: 从“UNICODE_STRING *”到“ULONG”的指针截断
+D:\coding\hack\DongLib\bsod.cpp(53,43): warning C4302: “类型强制转换”: 从“UNICODE_STRING *”到“ULONG”截断
+D:\coding\hack\DongLib\bsod.cpp(56,68): error C2664: “LONG (LONG,ULONG,ULONG,PULONG_PTR,HARDERROR_RESPONSE_OPTION,PULONG)”: 无法将参数 4 从“ULONG [3]”转换为“PULONG_PTR”
+D:\coding\hack\DongLib\bsod.cpp(56,38): message : 与指向的类型无关；强制转换要求 reinterpret_cast、C 样式强制转换或函数样式强制转换

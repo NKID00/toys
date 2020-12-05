@@ -1,0 +1,7 @@
+D:\coding\hack\DongLibSharp\bin\x86\Release\DongLibSharp.dll
+D:\coding\hack\DongLibSharp\bin\x86\Release\DongLibSharp.pdb
+D:\coding\hack\DongLibSharp\obj\x86\Release\DongLibSharp.ImageForm.resources
+D:\coding\hack\DongLibSharp\obj\x86\Release\DongLibSharp.csproj.GenerateResource.cache
+D:\coding\hack\DongLibSharp\obj\x86\Release\DongLibSharp.dll
+D:\coding\hack\DongLibSharp\obj\x86\Release\DongLibSharp.pdb
+D:\coding\hack\DongLibSharp\obj\x86\Release\DongLibSharp.csprojAssemblyReference.cache

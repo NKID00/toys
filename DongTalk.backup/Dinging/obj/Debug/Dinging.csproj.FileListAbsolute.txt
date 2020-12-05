@@ -1,0 +1,9 @@
+D:\coding\hack\Dinging\bin\Debug\Dinging.exe
+D:\coding\hack\Dinging\bin\Debug\Dinging.pdb
+D:\coding\hack\Dinging\obj\Debug\Dinging.csprojAssemblyReference.cache
+D:\coding\hack\Dinging\obj\Debug\Dinging.MainForm.resources
+D:\coding\hack\Dinging\obj\Debug\Dinging.Properties.Resources.resources
+D:\coding\hack\Dinging\obj\Debug\Dinging.csproj.GenerateResource.cache
+D:\coding\hack\Dinging\obj\Debug\Dinging.exe
+D:\coding\hack\Dinging\obj\Debug\Dinging.pdb
+D:\coding\hack\Dinging\bin\Debug\Dinging.exe.config
